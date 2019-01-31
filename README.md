@@ -22,6 +22,7 @@ https://globalgamejam.org/2019/games/gonuts
 ### My Contribution _coding_
 - Opening scene camera
 - Audio Manager
+- Render Manager
 - Character Movement
 - Clock
 - Ui
