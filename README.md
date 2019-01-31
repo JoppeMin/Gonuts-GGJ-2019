@@ -14,6 +14,9 @@ _This game was made in 48 Hours_
 - Baldi Konijn
 - Matthys van den Berg
 
+**GGJ Page:**
+https://globalgamejam.org/2019/games/gonuts
+
 ### My Contribution _coding_
 - Opening scene camera
 - Character Movement
