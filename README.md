@@ -4,7 +4,7 @@ _This game was made in 48 Hours_
 
 **Hide your nuts in the Fall to retrieve them during Winter time.**
 
-![alt text](https://media.giphy.com/media/6b9WaRlopNRtRRudTs/giphy.gif)
+[.Gif](https://media.giphy.com/media/uTLVRMrmG2v0IJL827/giphy.gif)
 
 
 ### Team
