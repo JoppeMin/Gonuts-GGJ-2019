@@ -1,6 +1,7 @@
 # Gonuts
 ## _Global Game Jam 2019_
 _This game was made in 48 Hours_
+
 **Hide your nuts in the Fall to retrieve them during Winter time.**
 
 ![alt text](https://media.giphy.com/media/6b9WaRlopNRtRRudTs/giphy.gif)
