@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &435428882880230269
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 435428882880230267}
+  - component: {fileID: 435428882880230268}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &435428882880230267
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 435428882880230269}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.00000008940697, y: 0.7757065, z: -0.52779734}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &435428882880230268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 435428882880230269}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47f448e29fb930a49b4647337592c10f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uiController: {fileID: 0}
+  nutsAmountUI: {fileID: 0}
+  camObject: {fileID: 0}
+  roundLengthSeconds: 60
+  ground: {fileID: 0}
+  regularGroundMat: {fileID: 2100000, guid: c30f36fe815bc734d97712af4f799690, type: 2}
+  snowyGroundMat: {fileID: 2100000, guid: 8c3cdac1fa4c0034888a3ee2e598eedb, type: 2}
+  snowParticles: {fileID: 0}
+  hole: {fileID: 4032024073335137936, guid: aebaba944611d824db7305a47ebd997f, type: 3}
+  tutorialHole: {fileID: 0}
+  PostProc: {fileID: 0}
+  tutorialCagePrefab: {fileID: 952128965565105518, guid: 70fd89f7d3ae0f8418f59c6e7d23381f,
+    type: 3}
+  NameOffspringMenu: {fileID: 0}
+  babies:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  skullPrefab: {fileID: 5085291832056922986, guid: 7e1438901f99a7244bff628b0404ab08,
+    type: 3}
+  clock: {fileID: 0}
+  splashLogo: {fileID: 0}
+  aToContinue: {fileID: 0}
+  introduction: {fileID: 0}
+  introKids: {fileID: 0}
+  fallTutorialIntro: {fileID: 0}
+  winterTutorialIntro: {fileID: 0}
+  winterSuccess: {fileID: 0}
+  winterFailure: {fileID: 0}
+  squirrelFeedPanel: {fileID: 0}
+  babyIcons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  acorns:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  rumbleIntensity: 0
+  currentState: 0
