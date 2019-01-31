@@ -6,7 +6,7 @@ _**Cloned from GitLab**_
 
 Hide your nuts in the Fall to retrieve them during Winter time.
 
-[.Gif](https://media.giphy.com/media/uTLVRMrmG2v0IJL827/giphy.gif)
+![.Gif](https://media.giphy.com/media/uTLVRMrmG2v0IJL827/giphy.gif)
 
 
 ### Team
